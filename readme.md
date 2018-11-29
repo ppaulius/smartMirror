@@ -12,4 +12,4 @@
 
 - http://www.raspberry-projects.com/pi/pi-operating-systems/raspbian/gui/disable-screen-sleep
 
-- https://calendar.google.com/calendar/embed?src=lt.lithuanian%23holiday%40group.v.calendar.google.com&ctz=Europe%2FVilnius
+- https://calendar.google.com/calendar/ical/lt.lithuanian%23holiday%40group.v.calendar.google.com/public/basic.ics
