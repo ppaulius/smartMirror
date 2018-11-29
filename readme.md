@@ -11,3 +11,5 @@
 - https://raspberrypi.stackexchange.com/questions/53127/how-to-permanently-hide-mouse-pointer-or-cursor-on-raspberry-pi
 
 - http://www.raspberry-projects.com/pi/pi-operating-systems/raspbian/gui/disable-screen-sleep
+
+- https://calendar.google.com/calendar/embed?src=lt.lithuanian%23holiday%40group.v.calendar.google.com&ctz=Europe%2FVilnius
